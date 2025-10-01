@@ -43,8 +43,8 @@ A **square number** is the product of a number multiplied by itself. For example
 ```jsx
 printSquareNumbers(5);
 //will print:
-// 1
-// 4
+// 1*1 = 1
+// 2*2 = 4
 // 9
 // 16
 // 25
